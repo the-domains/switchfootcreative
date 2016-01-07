@@ -1,7 +1,7 @@
 name: switchfootcreative
 favicon: null
-layout_spectrum: 0.9876984041184187
-typography_spectrum: 0.017918859841302037
+layout_spectrum: 0.5019
+typography_spectrum: 0.50317
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#07476a'
+    - '#000000'
+    - '#b7aa2c'
+    - '#ffff00'
+    - '#7f7f00'
   brandStrength: 0.6146081101614982
-  lightness: 0.4721297479700297
-  saturation: 0.2601809618063271
-  rhythmicContrast: 0.3571541318669915
+  lightness: 0.375
+  saturation: 0.4375
+  rhythmicContrast: 0.25
 purpose: []
